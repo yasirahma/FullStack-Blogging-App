@@ -1,5 +1,4 @@
-FROM eclipse-temurin:17-jdk-alpin
-    
+FROM eclipse-temurin:17-jdk-alpin      
 EXPOSE 8080
  
 ENV APP_HOME /usr/src/app
